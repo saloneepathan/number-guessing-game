@@ -18,3 +18,15 @@ After each guess, the program tells you if the number is too high or too low.
 ```bash
 git clone https://github.com/your-username/number-guessing-game.git
 cd number-guessing-game
+```
+
+2. Run the game:
+```bash
+python game.py
+```
+
+## 🤝 Contributing
+Feel free to fork this project and open pull requests with improvements!
+
+## 📜 License
+This project is open-source and available under the MIT License.
